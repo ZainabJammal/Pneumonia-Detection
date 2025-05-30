@@ -44,7 +44,7 @@ All models initialized with ImageNet weights and trained with custom dense heads
 •	Dropout (0.2–0.5)
 •	Data augmentation
 •	Fine-tuning in stages
-________________________________________
+
  ### Training Setup
 •	Epochs: Typically 5–20 (based on early stopping)
 •	Batch Size: Defined by BATCH
